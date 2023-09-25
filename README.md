@@ -1,4 +1,4 @@
-#UMaT Hospital (Clinic) Management System - C#, ASP.net
+# UMaT Hospital (Clinic) Management System - C#, ASP.net
 
 A fully featured Clinic Management System having a well designed Database.
 
