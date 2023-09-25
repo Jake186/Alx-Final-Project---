@@ -1,6 +1,6 @@
-# Clinic Management System - Made using C#, ASP.net
+#UMaT Hospital (Clinic) Management System - C#, ASP.net
 
-A fully featured Clinic Management System having a well designed Database. Its based on the 3 Tier Architecture.
+A fully featured Clinic Management System having a well designed Database.
 
 ## Technologies Used:
 
